@@ -1,0 +1,17 @@
+========
+Required:
+========
+
+>Through Train
+  > Passing Platform Number
+> Normal Train
+  > Train Number(OPTIONAL)
+  > Train Name
+  > Train Category(UP/DOWN)
+    
+    > Departing
+      > Departing Platform Number
+      > Destination
+      > Departing Time
+    > Arriving
+      > Arriving Platform Number
