@@ -1,6 +1,12 @@
 # Indian-Railways-Announcement-Python3
 Here I implement Indian Railways Announcement Project with Python3.
 
+You can visit my blog on this topic:
+https://dsasanengineer.blogspot.com/2020/04/indian-railways-announcement-system.html
+
+The youtube link of the follow project:
+https://www.youtube.com/watch?v=-brjxGxERwk&feature=youtu.be
+
 The blueprint of the whole system is like:
 >Through Train
   > Passing Platform Number
