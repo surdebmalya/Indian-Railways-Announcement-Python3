@@ -2,7 +2,7 @@
 It is a project where I implement Indian Railways Announcement Project with Python3.
 
 ## Related Blog
-[Click Here](https://dsasanengineer.blogspot.com/2020/04/indian-railways-announcement-system.html) to visit the related blog to this project!
+[Click Here](https://surdebmalya.hashnode.dev/railway-announcement-system-building) to visit the related blog to this project!
 
 ## See The Code In Action
 [![Watch the video](http://i3.ytimg.com/vi/gbBf_E7Gs68/maxresdefault.jpg)](https://www.youtube.com/watch?v=gbBf_E7Gs68&feature=youtu.be)
