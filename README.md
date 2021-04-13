@@ -36,6 +36,3 @@ Through Train Passing Platform Number | Normal Train Train Number(OPTIONAL)
 
 I have used two main modules in this project, i.e. tkinter anf gtts, besides of these, I have also used other modules like time,os,sys etc. In this project you can get a clean GUI, which is developed by tkinter, and as a speaking language, I have seleted my mother tongue, Bengali as one of three languages, rest of those are: Hindi and Indian-English.
 
-## My Previous Project On tkinter
-I have already worked on tkinter module. I have made a simple calculator with that module, here is the video: 
-[![Watch the video](http://i3.ytimg.com/vi/DHhE0d5xgWY/maxresdefault.jpg)](https://www.youtube.com/watch?v=DHhE0d5xgWY)
